@@ -1,0 +1,11 @@
+node_modules
+.env*
+.env.example
+.vercel
+api/
+dashboard.html
+package.json
+package-lock.json
+server.js
+vercel.json
+app.js
